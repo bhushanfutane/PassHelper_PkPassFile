@@ -1,0 +1,6 @@
+/.vs
+*.user
+bin
+obj
+/PassKitHelper.Demo/pass.*
+/PassKitHelper.Demo/Sample.pkpass
